@@ -31,3 +31,6 @@ se afiancen los conocimientos de las herramientas de programación propuestas en
 La comparación de los diferentes modelos, con los mismos datos, demuestran que sí se tienen diferencias en los resultados,los cuales pueden ser concluyentes a la hora de su interpretación.
 Esto debido a que el análisis de solución aproximada, es un modelo idealizado, mientras que el Runge - Kutta, busca una mejor aproximación de los resultados; al ser una técnica de resolución
 de ecuaciones diferenciales.
+
+
+Prueba pendulo
